@@ -1,2 +1,0 @@
-# Datamining-Projet
-Projet Datamining
