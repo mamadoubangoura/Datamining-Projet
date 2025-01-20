@@ -32,12 +32,12 @@ L'approche suit un processus complet de Data Mining, allant de l'intégration et
 -----
 **Objectifs du projet**
 
-- **Prédiction du score (note) de l’apprenant :** Utiliser les 
+- **Prédiction du score (note) de l’apprenant :** Utiliser des modèles de machine learning pour prédire les notes des apprenants.
 - **Visualisations et analyses :** Fournir une vue à travers des graphiques (distributions, corrélations, distribution des erreurs de prédiction, etc.).
 -----
 **Description du Dataset**
 
-Le dataset utilisé se présente sous forme de fichier CSV comprenant les colonnes suivantes (exemple) :
+Le dataset utilisé est un fichier CSV contenant les colonnes suivantes :
 
 1. **Socioeconomic Score** : Un score représentant le statut socio-économique de l'élève.
 1. **Study Hours** : Le nombre moyen d'heures d'étude par jour.
